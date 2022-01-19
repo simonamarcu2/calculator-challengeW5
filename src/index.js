@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './calculator';
 import Calculator from './calculator';
-
+import './index.css'
 //render the calculator to the app page
 ReactDOM.render(
   <Calculator />,
